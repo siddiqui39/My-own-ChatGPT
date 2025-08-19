@@ -10,8 +10,11 @@ This repository contains all the code and resources for a project that allows yo
  5. OpenAI API – accessed via LangChain’s ChatOpenAI class
 
 <p align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="60" />
-  <img src="https://avatars.githubusercontent.com/u/96312155?s=200&v=4" alt="LangChain" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="60" />
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="40" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/96312155?s=200&v=4" alt="LangChain" width="40" />
 </p>
+
+
+
+
