@@ -1,5 +1,5 @@
 
-# Your own ChatGPT
+# My own ChatGPT
 
 This repository contains all the code and resources for a project that allows you to create a fully functional ChatGPT clone with a user-friendly graphical interface. The project is built entirely using Python and leverages LangChain to handle interactions with the GPT model, making it easy to set up, customize, and run your own AI-powered chat application.
 ## Requirements
